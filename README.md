@@ -27,7 +27,7 @@
 
 ### 👨‍💻 About Me :
   
-I am an iOS Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from the United States.
+Hi my name is Rodney and I'm an iOS Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from the United States.
   
 - :telescope: I’m working as an Indie iOS Engineer building interactive apps that provide solutions to clients. 
 
