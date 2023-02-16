@@ -29,13 +29,13 @@
   
 Hi my name is Rodney and I'm an iOS Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from the United States.
   
-- :telescope: I’m working as an Indie iOS Engineer building interactive apps that provide solutions to clients. 
+ :telescope: I’m working as an Indie iOS Engineer building interactive apps that provide solutions to clients. 
 
-- :seedling: Exploring Technical Content Writing and Building an App Subscriber Base.
+ :seedling: Exploring Technical Content Writing and Building an App Subscriber Base.
 
-- :zap: In my free time, I enjoy creating iOS apps, reading tech news and bike riding. 
+ :zap: In my free time, I enjoy creating iOS apps, reading tech news and bike riding. 
 
-- :mailbox:How to reach me: rodcplatt@yahoo.com 
+ :mailbox:How to reach me: rodcplatt@yahoo.com 
   
  ---
 
@@ -54,10 +54,4 @@ Hi my name is Rodney and I'm an iOS Developer <img src="https://media.giphy.com/
 </div>
   
   
-  ---
-
-### :fire: My Stats :
-  
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=rodney-platt-jr&theme=dark&background=000000)](https://git.io/streak-stats)
-
   
